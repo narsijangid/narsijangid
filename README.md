@@ -54,10 +54,10 @@
 ---
 ## 🔗 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-narsiramjangid@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:narsijangid01@gmail.com)
+[![Email](https://img.shields.io/badge/Email-narsijangid01@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:narsijangid01@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-narsi--jangid-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/narsi-jangid-3b54ab297/)
 [![GitHub](https://img.shields.io/badge/GitHub-narsijangid-black?style=for-the-badge&logo=github)](https://github.com/narsijangid)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dazzlone.in-9cf?style=for-the-badge&logo=vercel)](https://narsi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-9cf?style=for-the-badge&logo=vercel)](https://narsi.vercel.app/)
 
 ---
 
