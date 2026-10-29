@@ -4,12 +4,7 @@
 
 ## 🌟 About Me
 
-🚀 I am an Aspiring **Full-Stack Web Developer**, recently completed a 30-week full-time Web Development course at **Masai School**, Bengaluru.
-
-💡 Passionate about the **MERN Stack** (MongoDB, Express, React, Node.js) and always eager to learn and grow in a dynamic, fast-paced tech environment.
-
-🔍 Currently exploring **advanced React patterns**, **backend architecture**, and **real-time applications** to build scalable, production-ready projects.
-
+🚀 I am a Full-Stack Developer with 1 year of professional experience, specializing in the MERN Stack (MongoDB, Express.js, React.js, and Node.js), and passionate about building scalable, user-friendly web applications.
 ---
 
 ## 🛠️ Tech Stack
